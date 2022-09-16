@@ -1,4 +1,3 @@
-
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Data%20Engineer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Youngil Yu&descAlignY=70">
 </div>
@@ -21,7 +20,7 @@ I'm currently studying the data analysis process.
 
 # Contact
 Here's my E-mail
-sunforever58@gmail.com
+sunforever58@gmail.com</br>
 sunforever58@koreatech.ac.kr
 
 or KakaoTalkID
