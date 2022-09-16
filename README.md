@@ -19,9 +19,9 @@ I'm currently studying the data analysis process.
 </div>
 
 # Contact
-Here's my E-mail
+Here's my E-mail</br>
 sunforever58@gmail.com</br>
 sunforever58@koreatech.ac.kr
 
-or KakaoTalkID
+or KakaoTalkID</br>
 sunforever58@gmail.com
