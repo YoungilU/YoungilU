@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=hanminss&descAlignY=70">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Data%20Engineer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=hanminss&descAlignY=70">
 </div>
 
 # Introduce
@@ -23,5 +23,5 @@ Here's my E-mail</br>
 sunforever58@gmail.com</br>
 sunforever58@koreatech.ac.kr
 
-or KakaoTalkID</br>
+or KakaoTalk ID</br>
 sunforever58@gmail.com
