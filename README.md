@@ -6,7 +6,7 @@
 Hi there, I'm Youngil Yu 👋</br>
 I am 25 years old and graduated from University, Koreatech.</br>
 And my major is Computer Engineering.</br>
-I'm currently studying the data analysis process.</br>
+I'm currently studying data analysis process.</br>
 
 
 # My Skills
