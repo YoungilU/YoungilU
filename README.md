@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Data%20Engineer&fontAlignY=45&fontSize=40&height=150&desc=Youngil%20Yu&descAlignY=70">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Data%20Analysist&fontAlignY=45&fontSize=40&height=150&desc=Youngil%20Yu&descAlignY=70">
 </div>
 
 # Introduce
