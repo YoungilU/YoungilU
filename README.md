@@ -18,7 +18,6 @@ I'm currently studying data analysis process.</br>
 # Contact
 Here's my E-mail</br>
 sunforever58@gmail.com</br>
-sunforever58@koreatech.ac.kr</br>
 
 or KakaoTalk ID</br>
 sunforever58@gmail.com</br>
